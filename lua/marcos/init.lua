@@ -1,2 +1,2 @@
-vim.opt.number = true
-print("hello from marcos ")
+require("marcos.remap")
+print("Marcola")

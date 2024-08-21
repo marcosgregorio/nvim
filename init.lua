@@ -1,2 +1,2 @@
-require("marcos")
-print("hello")
+require("/marcos")
+print("Hello")
